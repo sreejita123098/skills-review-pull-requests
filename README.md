@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations sreejita123098! 🎉
+# 🎉 Congratulations Sreejita Bera 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
